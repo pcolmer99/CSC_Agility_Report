@@ -14,9 +14,9 @@ Who is Paul Colmer? - https://www.linkedin.com/in/paulcolmer Chief Architect for
 
 What is MyWorkStyle? https://www.youtube.com/watch?v=Bof4nq0Yb9I CSC's suite of next generation Digital Workplace offerings, that integrates with Microsoft Office 365 E3 service:
 
-Enterprise Email
-Business & Social Collaboration
-Unified Communications
-PC Devices
-Virtual Desktop
-Enterprise Mobility
++ Enterprise Email
++ Business & Social Collaboration
++ Unified Communications
++ PC Devices
++ Virtual Desktop
++ Enterprise Mobility
